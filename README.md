@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Cześć! Jestem Krystian  
 
-<!--
-**krystiandomagala/krystiandomagala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Jestem absolwentem **Informatyki Stosowanej** i rozwijam swoje umiejętności w zakresie nowoczesnych technologii webowych oraz mobilnych. Tworzę aplikacje, łącząc technologie front-endowe oraz back-endowe.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologie  
+💻 **Frontend:** React, React Native, JavaScript, HTML, CSS  
+⚙️ **Backend:** Node.js, Firebase (Firestore, Authentication), PostgreSQL  
+📡 **API & Bazy danych:** REST, Firestore, PostgreSQL  
+🛠️ **Narzędzia:** Git, Firebase, React Router  
+
+---
+
+## 📌 Wyróżnione projekty  
+
+### [TeamFlow 🏢](https://github.com/krystiandomagala/TeamFlow)  
+Aplikacja do zarządzania zespołami, umożliwiająca tworzenie projektów, zadań i czatu.  
+
+🔹 **Technologie:** React, Firebase Authentication, Firestore  
+🔹 **Funkcje:**  
+- Tworzenie i zarządzanie zespołami  
+- System ról i uprawnień  
+- Czat i kalendarz zespołowy
+- Operacje CRUD
+- Autentykacja i autoryzacja użytkowników
+- Zarządzanie taskami zespołu
+🔹 **Repozytorium:** [Zobacz na GitHub](https://github.com/krystiandomagala/TeamFlow)  
+
+---
+
+### [Aplikacja Pogodowa 🌦️](https://github.com/krystiandomagala/WeatherApp)  
+Mobilna aplikacja do wyświetlania aktualnej pogody na podstawie OpenWeatherMap API.  
+
+🔹 **Technologie:** React Native, OpenWeatherMap API  
+🔹 **Funkcje:**  
+- Pobieranie prognozy pogody  
+- Lokalny zapis ustawień użytkownika  
+🔹 **Repozytorium:** [Zobacz na GitHub](https://github.com/krystiandomagala/WeatherApp)  
+
