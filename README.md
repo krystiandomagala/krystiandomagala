@@ -24,7 +24,8 @@ Aplikacja do zarządzania zespołami, umożliwiająca tworzenie projektów, zada
 - Operacje CRUD
 - Autentykacja i autoryzacja użytkowników
 - Zarządzanie taskami zespołu
-🔹 **Repozytorium:** [Zobacz na GitHub](https://github.com/krystiandomagala/TeamFlow)  
+🔹 **Repozytorium:** [Zobacz na GitHub](https://github.com/krystiandomagala/TeamFlow)
+🌍 **Live Demo** [Zobacz wersje live TeamFlow](https://teamflow-27935.firebaseapp.com/sign-in)
 
 ---
 
